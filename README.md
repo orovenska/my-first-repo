@@ -10,7 +10,7 @@ A repository for learning GitHub.
 
 ## Hobbies:
 - 🎧 I love music
-- 🏎️ Passionate about Formula 1 and motorsport
+- 🏎️ I'm passionate about Formula 1
 - ✈️ I love traveling
 - 🫟 I love being creative and drawing
 - 🎸 I play the guitar
